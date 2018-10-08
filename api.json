@@ -1,0 +1,10 @@
+{
+  "paths": {
+    "/api/hey": {
+      "get": {
+        "authRequired": false,
+        "summary": "Hello from the server"
+      }
+    }
+  }
+}
