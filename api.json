@@ -3,7 +3,7 @@
     "/api/hey": {
       "get": {
         "authRequired": false,
-        "summary": "Hello from the server"
+        "summary": "Hello from Glo server"
       }
     }
   }
