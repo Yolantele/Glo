@@ -23,6 +23,7 @@
     "classyact": "^1.1.2",
     "cls-hooked": "^4.2.2",
     "cors": "^2.8.4",
+    "the-framework": "^1.0.7",
     "uuid": "^3.3.2"
   }
 }
