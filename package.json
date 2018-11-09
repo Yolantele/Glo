@@ -17,9 +17,8 @@
     "url": "https://github.com/Yolantele/Glo/issues"
   },
   "homepage": "https://github.com/Yolantele/Glo#readme",
-  "dependencies": {
+  "dependenccies": {
     "bunyan": "^1.8.12",
-    "cheese-toastie": "^0.2.20",
     "classyact": "^1.1.2",
     "cls-hooked": "^4.2.2",
     "cors": "^2.8.4",
